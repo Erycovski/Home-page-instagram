@@ -98,13 +98,13 @@ body {
 
 }
 
-p.not-acconut  {
-    color: rgb(160, 160, 160);
-
-}
-
 .link-color {
     color: #0095f6;
+}
+
+div > p.not-acconut  {
+    color: rgb(255, 22, 22);
+
 }
 
 .get-the-app {
